@@ -6,6 +6,9 @@
    <a href="mailto:goncalojmrosa@gmail.com">
   <img align='center' src="https://img.shields.io/badge/-GonçaloRosa-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:goncalojmrosa@gmail.com" alt="E-Mail">
   </a>
+  
+<br/>
+<br/>
 
 - 🔭 I’m currently studying
 - :books: I’m currently learning ReactJS and NodeJS
