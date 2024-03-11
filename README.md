@@ -27,6 +27,6 @@ I have a currently finishing my Bachelor degree in Computer Science.
 
 # 🔎❓ About me
 
-- 🌱 I’m currently looking for a job that uses (React || Next || Node) and TypeScript
+- 🌱 I’m currently looking for a job that uses ( React | Next | Node ) and TypeScript
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gon%C3%A7alo-rosa/)  or by email goncalojmrosa@gmail.com
 - ⚡ Fun fact: On my free time I like to learn more about CyberSecurity 
