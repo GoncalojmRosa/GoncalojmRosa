@@ -21,12 +21,10 @@ I have a currently finishing my Bachelor degree in Computer Science.
 - Learned at university
 <p>
   <img alt="Java" width="40px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />
-  <img alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
   <img alt="SQL" width="40px" src="https://cdn2.iconfinder.com/data/icons/programming-50/64/206_programming-sql-data-database-512.png" />
   <img alt="SpringBoot" width="40px" src="https://img.icons8.com/?size=256&id=90519&format=png" />
   <img alt="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-  <img alt="MongoDB" width="40px"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-        
+  <img alt="MongoDB" width="40px"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />    
 </p>
 
 
