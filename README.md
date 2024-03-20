@@ -24,7 +24,8 @@ I have a currently finishing my Bachelor degree in Computer Science.
   <img alt="SQL" width="40px" src="https://cdn2.iconfinder.com/data/icons/programming-50/64/206_programming-sql-data-database-512.png" />
   <img alt="SpringBoot" width="40px" src="https://img.icons8.com/?size=256&id=90519&format=png" />
   <img alt="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-  <img alt="MongoDB" width="40px"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />    
+  <img alt="MongoDB" width="40px"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+  <img alt="Neo4J" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original-wordmark.svg" />       
 </p>
 
 
