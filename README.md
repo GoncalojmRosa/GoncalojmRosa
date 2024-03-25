@@ -4,7 +4,7 @@ My name is Gonçalo Rosa and I'm 21 years old. I'm living in Castelo Branco, Por
 I have a currently finishing my Bachelor degree in Computer Science.
 
 
-# 👩🏼‍💻 Languages and Frameworks
+# 🧑🏻‍💻 Languages and Frameworks
 
 - Currently using most often
 <p>
