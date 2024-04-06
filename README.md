@@ -1,8 +1,6 @@
 # 🤗 Hi there 👋
 
-My name is Gonçalo Rosa and I'm 21 years old. I'm living in Castelo Branco, Portugal.
-I have a currently finishing my Bachelor degree in Computer Science.
-
+My name is Gonçalo Rosa and I am 21 years old. I live in Castelo Branco, Portugal. I am currently finishing my Bachelor's degree in Computer Science.
 
 # 🧑🏻‍💻 Languages and Frameworks
 
