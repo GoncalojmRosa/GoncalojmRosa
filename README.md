@@ -9,6 +9,7 @@ I'm Gonçalo Rosa, a 21-year-old from Castelo Branco, Portugal. I recently finis
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="40px"/>
 </p>
 
 **Self-Taught**
@@ -32,6 +33,7 @@ I'm Gonçalo Rosa, a 21-year-old from Castelo Branco, Portugal. I recently finis
   <img src="https://img.icons8.com/?size=256&id=90519&format=png" alt="SpringBoot" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original-wordmark.svg" alt="Neo4J" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40px"/>
 </p>
 
 # 🔎❓ About Me
